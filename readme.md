@@ -8,8 +8,8 @@
   ![蓝牙管理](/images/web.jpg)
 - 时钟模式2，图片模式
   ![时钟模式2，图片模式](/images/1553702163.jpg)
-
-![时钟模式3](/images/clock3.jpg)
+- 时钟模式3
+  ![时钟模式3](/images/clock3.jpg)
 
 ### 刷入固件步骤
 
